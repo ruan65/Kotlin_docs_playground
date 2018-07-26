@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a8019d4-4caf-47a7-a590-3e9cf35e7813" name="Default" comment="" />
+    <list default="true" id="2a8019d4-4caf-47a7-a590-3e9cf35e7813" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/documentation/META-INF/documentation.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/documentation/META-INF/documentation.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/documentation/delegation/DelegatedPropertiesExamplesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/documentation/delegation/DelegatedPropertiesExamplesKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/documentation/delegation/SomeDelegateClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/documentation/delegation/SomeDelegateClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/delegation/DelegatedPropertiesExamples.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/delegation/DelegatedPropertiesExamples.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operators/OperatorOverloadingFractionExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators/OperatorOverloadingFractionExample.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,10 +42,19 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="OperatorOverloadingFractionExample.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/operators/OperatorOverloadingFractionExample.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="MyExampleOfDelegate.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/delegation/MyExampleOfDelegate.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-115">
+            <state relative-caret-position="171">
               <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
@@ -65,17 +81,17 @@
       <file leaf-file-name="StoringPropsInMap.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/delegation/StoringPropsInMap.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="342">
+              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Troll.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Troll.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/delegation/Troll.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="68" selection-start-line="30" selection-start-column="68" selection-end-line="30" selection-end-column="68" />
+            <state relative-caret-position="46">
+              <caret line="20" column="112" lean-forward="true" selection-start-line="20" selection-start-column="112" selection-end-line="20" selection-end-column="112" />
             </state>
           </provider>
         </entry>
@@ -89,6 +105,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
@@ -101,11 +120,13 @@
       <list>
         <option value="$PROJECT_DIR$/src/App.kt" />
         <option value="$PROJECT_DIR$/src/delegation/MyExampleOfDelegate.kt" />
-        <option value="$PROJECT_DIR$/src/delegation/DelegatedPropertiesExamples.kt" />
         <option value="$PROJECT_DIR$/src/delegation/LazyExample.kt" />
         <option value="$PROJECT_DIR$/src/delegation/ObservableExample.kt" />
         <option value="$PROJECT_DIR$/src/delegation/StoringPropsInMap.kt" />
         <option value="$PROJECT_DIR$/src/delegation/Troll.kt" />
+        <option value="$PROJECT_DIR$/src/delegation/DelegatedPropertiesExamples.kt" />
+        <option value="$PROJECT_DIR$/src/operators/OperatorOverloadingExamples.kt" />
+        <option value="$PROJECT_DIR$/src/operators/OperatorOverloadingFractionExample.kt" />
       </list>
     </option>
   </component>
@@ -114,6 +135,9 @@
     <option name="y" value="105" />
     <option name="width" value="1390" />
     <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -139,6 +163,12 @@
               <item name="documentation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="delegation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="documentation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="documentation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="operators" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="documentation" type="b2602c69:ProjectViewProjectNode" />
@@ -171,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.delegation.StoringPropsInMapKt">
+  <component name="RunManager" selected="Kotlin.operators.OperatorOverloadingFractionExampleKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -190,16 +220,6 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
-    </configuration>
-    <configuration name="delegation.DelegatedPropertiesExamplesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="documentation" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="delegation.DelegatedPropertiesExamplesKt" />
-      <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="delegation.LazyExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="documentation" />
@@ -241,6 +261,16 @@
       <option name="MAIN_CLASS_NAME" value="delegation.TrollKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
+    <configuration name="operators.OperatorOverloadingFractionExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="documentation" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="operators.OperatorOverloadingFractionExampleKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -264,19 +294,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.delegation.DelegatedPropertiesExamplesKt" />
       <item itemvalue="Kotlin.delegation.LazyExampleKt" />
       <item itemvalue="Kotlin.delegation.ObservableExampleKt" />
       <item itemvalue="Kotlin.delegation.StoringPropsInMapKt" />
       <item itemvalue="Kotlin.delegation.TrollKt" />
+      <item itemvalue="Kotlin.operators.OperatorOverloadingFractionExampleKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.operators.OperatorOverloadingFractionExampleKt" />
         <item itemvalue="Kotlin.delegation.StoringPropsInMapKt" />
         <item itemvalue="Kotlin.delegation.TrollKt" />
         <item itemvalue="Kotlin.delegation.ObservableExampleKt" />
         <item itemvalue="Kotlin.delegation.LazyExampleKt" />
-        <item itemvalue="Kotlin.delegation.DelegatedPropertiesExamplesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -300,11 +330,11 @@
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25500527" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32876712" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25737265" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26388127" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -335,27 +365,6 @@
     <entry file="file://$PROJECT_DIR$/documentation.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/delegation/DelegatedPropertiesExamples.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/delegation/MyExampleOfDelegate.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-115">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/delegation/LazyExample.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/properties/Delegates.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -370,17 +379,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/delegation/StoringPropsInMap.kt">
+    <entry file="file://$PROJECT_DIR$/src/delegation/Troll.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="46">
+          <caret line="20" column="112" lean-forward="true" selection-start-line="20" selection-start-column="112" selection-end-line="20" selection-end-column="112" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/delegation/Troll.kt">
+    <entry file="file://$PROJECT_DIR$/src/delegation/StoringPropsInMap.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="68" selection-start-line="30" selection-start-column="68" selection-end-line="30" selection-end-column="68" />
+        <state relative-caret-position="342">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/delegation/MyExampleOfDelegate.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/delegation/LazyExample.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Primitives.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="577" column="62" lean-forward="true" selection-start-line="577" selection-start-column="62" selection-end-line="577" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/delegation/DelegatedPropertiesExamples.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/operators/OperatorOverloadingFractionExample.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
         </state>
       </provider>
     </entry>
